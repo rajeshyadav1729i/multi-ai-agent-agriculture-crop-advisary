@@ -1,0 +1,34 @@
+# SCHEME REFERENCE: KISAN CREDIT CARD (KCC) SCHEME
+RESERVE BANK OF INDIA & NABARD / MINISTRY OF AGRICULTURE & FARMERS WELFARE
+Official Portal: https://myscheme.gov.in/schemes/kcc
+Operational Guidelines Ref: RBI/FIDD/2018-19/KCC-Circular
+
+1. SCHEME OBJECTIVE:
+To provide adequate and timely credit support from the banking system under a single window to the farmers for their cultivation and other needs including short term crop loans, post-harvest expenses, produce marketing loan, consumption requirements of farmer household, and working capital for maintenance of farm assets and activities allied to agriculture.
+
+2. FINANCIAL BENEFITS & INTEREST SUBVENTION:
+- Credit limit assessed based on cropping pattern, scale of finance, and area under cultivation.
+- Interest Subvention Scheme (ISS): Short-term crop loans up to Rs. 3,00,000/- are made available at an effective interest rate of 4% per annum (Base interest rate 9% - 2% Govt Interest Subvention - 3% Prompt Repayment Incentive).
+- Collateral-free loan limit up to Rs. 1,60,000/- (extended to Rs. 2,00,000/- in tie-up arrangements).
+- Validity of KCC: 5 years, with annual review and built-in 10% credit escalation each year.
+- Built-in personal accident insurance scheme up to Rs. 50,000/- for death or permanent disability.
+
+3. ELIGIBILITY CRITERIA:
+- All farmers - individuals / joint borrowers who are owner cultivators.
+- Tenant farmers, oral lessees, and sharecroppers.
+- Self Help Groups (SHGs) or Joint Liability Groups (JLGs) of farmers including sharecroppers.
+- Farmers engaged in animal husbandry, dairy, poultry, and fisheries (working capital limit up to Rs. 2,00,000/- eligible for interest subvention).
+
+4. REQUIRED DOCUMENTS:
+- Duly completed KCC Application Form
+- Two passport size photographs
+- Identity proof: Aadhaar Card, Voter ID, PAN card, or Driving License
+- Address proof: Aadhaar Card, Electricity Bill, Ration Card
+- Land ownership documents: Revenue record of land holding (Jamabandi / 7/12 extract / Khatauni)
+- Cropping pattern declaration and certificate of crops cultivated
+- No-dues certificate from nearby financial institutions (if loan exceeds threshold)
+
+5. APPLICATION PROCESS:
+- Online application through public sector bank portals, State cooperative banks, or Regional Rural Banks (RRBs).
+- Single page simplified KCC application form available at all Commercial and Cooperative Bank branches.
+- Processing fees waived for loan limits up to Rs. 3 Lakhs.

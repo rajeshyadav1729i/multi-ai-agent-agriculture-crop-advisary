@@ -1,0 +1,24 @@
+# SCHEME REFERENCE: SOIL HEALTH CARD (SHC) SCHEME
+MINISTRY OF AGRICULTURE & FARMERS WELFARE - GOVT OF INDIA
+Official Portal: https://soilhealth.dac.gov.in
+Guidelines Ref: SHC Operational Manual
+
+1. SCHEME OBJECTIVE:
+To assist State Governments to issue Soil Health Cards to all farmers in the country once every 2 years. To provide a basis to address nutrient deficiencies in fertilization practices and promote balanced, soil-test based fertilizer usage (NPK + micronutrients) to reduce unnecessary input expenditure and improve soil biology.
+
+2. CARD PARAMETERS & BENEFITS:
+- Testing of 12 critical soil parameters:
+  * Macro-nutrients: Nitrogen (N), Phosphorus (P), Potassium (K)
+  * Secondary nutrient: Sulphur (S)
+  * Micro-nutrients: Zinc (Zn), Iron (Fe), Copper (Cu), Manganese (Mn), Boron (B)
+  * Physical parameters: pH, Electrical Conductivity (EC), Organic Carbon (OC)
+- Farmer receives crop-wise dosage recommendations for chemical fertilizers and organic manures for six major cultivated crops.
+- Prevents excess urea overuse, saving up to 15-25% in fertilizer costs while protecting soil texture.
+
+3. ELIGIBILITY & COST:
+- 100% free of cost for all Indian farmers holding or cultivating agricultural land.
+- Soil samples are collected by trained village agriculture scouts / Krishi Sakhis across a grid system (2.5 ha in irrigated areas, 10 ha in rainfed areas).
+
+4. HOW TO OBTAIN:
+- Local Village Agricultural Extension Officers / Krishi Vigyan Kendras (KVKs).
+- Soil samples can be tracked or downloaded online with Farmer Name, District, and Village on the official Soil Health Card portal.

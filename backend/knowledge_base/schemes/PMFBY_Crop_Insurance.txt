@@ -1,0 +1,41 @@
+# SCHEME REFERENCE: PRADHAN MANTRI FASAL BIMA YOJANA (PMFBY)
+GOVERNMENT OF INDIA - MINISTRY OF AGRICULTURE & FARMERS WELFARE
+Official Portal: https://pmfby.gov.in
+Revised Operational Guidelines: Crop Insurance Scheme
+
+1. SCHEME OBJECTIVE:
+To provide insurance coverage and financial support to the farmers in the event of failure of any of the notified crops as a result of natural calamities, pests & diseases; to stabilize farmer income to ensure their continuance in farming; to encourage adoption of innovative and modern agricultural practices; and to enhance the flow of credit to the agricultural sector.
+
+2. PREMIUM RATES & FINANCIAL BENEFITS:
+- Very low premium payable by farmers:
+  * Kharif Foodgrain & Oilseeds crops: Maximum 2.0% of Sum Insured.
+  * Rabi Foodgrain & Oilseeds crops (e.g. Wheat, Mustard, Barley, Gram): Maximum 1.5% of Sum Insured.
+  * Commercial / Annual Horticultural crops (Cotton, Sugarcane, Potato, Onion): Maximum 5.0% of Sum Insured.
+- Balance premium subsidy is shared 50:50 between Central and State Government (90:10 for North Eastern States).
+- Full sum insured paid without capping or reduction if yield losses occur.
+
+3. RISKS COVERED & LOSS ASSESSMENT:
+- Prevented Sowing / Planting / Germination Risk: Up to 25% of sum insured paid if insured area is prevented from sowing due to adverse weather.
+- Standing Crop (Sowing to Harvesting): Yield loss coverage based on Crop Cutting Experiments (CCEs). Covers non-preventable risks like flood, inundation, dry spells, severe drought, pest attacks, plant diseases.
+- Post-Harvest Losses: Coverage available up to 14 days after harvest for crops kept in 'cut and spread' condition in the field for drying against unseasonal rains and hailstorms.
+- Localized Calamities: Hailstorm, landslide, inundation, cloudburst, natural fire, and localized waterlogging impacting isolated farms.
+
+4. CLAIM INTIMATION MANDATE (CRITICAL):
+- In case of localized calamities or post-harvest losses, farmers MUST intimate the insurance company, bank branch, or District Agriculture Officer within 72 hours of the calamity occurrence.
+- Intimation can also be made through the Crop Insurance Mobile App or PMFBY toll-free helpline (14447).
+
+5. ELIGIBILITY CRITERIA:
+- All farmers growing notified crops in notified areas (both sharecroppers and tenant farmers eligible).
+- Voluntary for all farmers (both loanee and non-loanee farmers).
+- Farmer must possess land title document or registered tenant/lease agreement.
+
+6. REQUIRED DOCUMENTS:
+- Aadhaar Card
+- Land ownership document (Khasra / Khatauni / Jamabandi / Patta) or Tenant / Sharecropper agreement certificate from Village Sarpanch / Patwari
+- Sowing Certificate / Crop Sowing declaration verified by local Patwari or Agriculture Extension Officer
+- Bank Passbook with clear account number and IFSC code
+- Premium payment receipt
+
+7. APPLICATION PROCESS:
+- Farmers can apply online at the PMFBY portal (pmfby.gov.in) before the cut-off date (usually July 31 for Kharif and December 31 for Rabi).
+- Alternatively through bank branches where crop loan/KCC is maintained, or through Common Service Centres (CSCs).

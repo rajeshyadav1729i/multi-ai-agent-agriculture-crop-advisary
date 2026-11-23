@@ -1,0 +1,40 @@
+# SCHEME REFERENCE: PRADHAN MANTRI KISAN SAMMAN NIDHI (PM-KISAN)
+GOVERNMENT OF INDIA - MINISTRY OF AGRICULTURE & FARMERS WELFARE
+Official Portal: https://pmkisan.gov.in
+Notification: Ref No. 1-1/2019-Credit-I
+
+1. SCHEME OBJECTIVE:
+To augment the income of all landholding farmer families across the country to meet their financial needs for procuring various inputs related to agriculture and allied activities as well as domestic needs.
+
+2. FINANCIAL BENEFITS:
+- Financial benefit of Rs. 6,000/- per year per family.
+- Payable in three equal four-monthly installments of Rs. 2,000/- each directly into the bank accounts of the beneficiaries through Direct Benefit Transfer (DBT).
+- Credited through Aadhaar-seeded bank accounts under PFMS.
+
+3. ELIGIBILITY CRITERIA:
+- All landholding farmers' families who have cultivable landholding in their names are eligible.
+- Both small/marginal and other landholding farmers are covered.
+- Land records must be updated in the state land records portal (e-KYC mandatory).
+- Mandatory Aadhaar linking and active bank account.
+
+4. EXCLUSION CATEGORIES (INELIGIBLE):
+The following categories of beneficiaries of higher economic status are NOT eligible:
+a) All Institutional Landholders.
+b) Farmer families in which one or more of its members belong to:
+   - Former and present holders of constitutional posts.
+   - Former and present Ministers, MPs, MLAs, MLCs, Mayors, District Panchayat Chairpersons.
+   - All serving or retired officers and employees of Central/State Government Ministries, Departments, Public Sector Undertakings (PSUs), autonomous bodies, and local government bodies (excluding Multi Tasking Staff / Class IV / Group D employees).
+   - All superannuated/retired pensioners whose monthly pension is Rs. 10,000/- or more (excluding Group D employees).
+   - All persons who paid Income Tax in the last assessment year.
+   - Professionals like Doctors, Engineers, Lawyers, Chartered Accountants, and Architects registered with professional bodies.
+
+5. REQUIRED DOCUMENTS:
+- Valid Aadhaar Card
+- Proof of Land Ownership / Land Record documents (Khatauni / Jamabandi / RoR)
+- Bank Account Passbook with IFSC Code
+- Mobile Number linked with Aadhaar
+
+6. APPLICATION & VERIFICATION PROCESS:
+- Online self-registration through the PM-KISAN portal (Farmers Corner -> New Farmer Registration) or via Common Service Centres (CSCs).
+- Physical verification carried out by District Agriculture Officers and State Nodal Officers.
+- Biometric or OTP-based e-KYC authentication via portal or PM-KISAN mobile app with face authentication.
